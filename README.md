@@ -22,12 +22,13 @@ De acordo com minhas [estatísticas do Wakatime](https://wakatime.com/@lucianoto
 
 ## Produtividade
 
-Eu monitoro minha produtividade, afinal a procrastinação é um mal real, então aqui estão algumas estatísticas reais:
+Disciplina no home-office é muito importante! Então eu mesmo monitoro minha produtividade. Aqui estão algumas estatísticas recentes:
 
 - 2 meses atrás: Passei quase 274 horas no computador, mas com uma pontuação de produtividade em 72%.
 - Mês passado: Passei 196 horas e a produtividade em 69%.
 - Julho, este mês: Até agora, 142h 32m, produtividade em 80%.
-
+  
+Obrigado ChatGPT e Rescuetime 🙏🏼
 
 ## 📫 Como me encontrar
 
