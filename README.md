@@ -1,16 +1,28 @@
-### Hi there 👋
+```bash
+> Olá, visitante! Seja bem vindo 👋
+```
 
-<!--
-**lucianotonet/lucianotonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Luciano Tonet**, sou desenvolvedor full-stack com mais de 10 anos de experiência. Trabalho com PHP, Laravel, Vue.js, Nuxt, atualmente estudando Python e inteligência artificial.
+Sou apaixonado por programação, design e música. Estou sempre explorando novidades. Quando não estou codificando, você pode me encontrar estudando sobre programação e outras nerdices 😅.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens**: PHP, Vue.js, JavaScript, Python
+- **Ferramentas**: VS Code, ChatGPT, GitHub Copilot, Midjourney, etc
+- **Idiomas**: Português, Inglês (bem básico)
+
+## 📊 Estatísticas de Codificação
+
+De acordo com minhas [estatísticas do Wakatime](https://wakatime.com/@lucianotonet), passei mais de 2.266 horas codificando desde novembro de 2016. Aqui está uma divisão das linguagens que usei:
+
+- PHP: 14.65% (931 horas)
+- Vue.js: 6.16% (391 horas)
+- JavaScript: 3.12% (198 horas)
+- Python: 1.46% (93 horas)
+
+## 📫 Como me encontrar
+
+- LinkedIn: [lucianotonet](https://www.linkedin.com/in/lucianotonet/)
+- Website: [luciano.tonet.dev](https://luciano.tonet.dev/)
+- Twitter: [@lucianotonet](https://twitter.com/lucianotonet)
+- E-mail: tonetlds@gmail.com
