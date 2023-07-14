@@ -3,7 +3,7 @@
 ```
 
 Meu nome é **Luciano Tonet**, sou desenvolvedor full-stack com mais de 10 anos de experiência. Trabalho com PHP, Laravel, Vue.js, Nuxt, atualmente estudando Python e inteligência artificial.
-Sou apaixonado por programação, design e música. Estou sempre explorando novidades. Quando não estou codificando, você pode me encontrar estudando sobre programação e outras nerdices 😅.
+Sou apaixonado por programação, design e música. Estou sempre explorando novidades. Quando não estou programando, você pode me encontrar estudando sobre programação e outras nerdices 😅.
 
 ## 🚀 Habilidades
 
@@ -11,9 +11,9 @@ Sou apaixonado por programação, design e música. Estou sempre explorando novi
 - **Ferramentas**: VS Code, ChatGPT, GitHub Copilot, Midjourney, etc
 - **Idiomas**: Português, Inglês (bem básico)
 
-## 📊 Estatísticas de Codificação
+## 📊 Estatísticas de programação
 
-De acordo com minhas [estatísticas do Wakatime](https://wakatime.com/@lucianotonet), passei mais de 2.266 horas codificando desde novembro de 2016. Aqui está uma divisão das linguagens que usei:
+De acordo com minhas [estatísticas do Wakatime](https://wakatime.com/@lucianotonet), passei mais de 2.266 horas programando desde novembro de 2016. Estas são as linguagens que mais usei:
 
 - PHP: 14.65% (931 horas)
 - Vue.js: 6.16% (391 horas)
