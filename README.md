@@ -1,40 +1,35 @@
-```bash
-> Olá, visitante! Seja bem vindo 👋
-```
+> Bem-vindo ao meu mundo! 🚀
 
-Meu nome é **Luciano Tonet**, sou desenvolvedor full-stack com mais de 10 anos de experiência. Trabalho com Laravel, Vue.js, Nuxt, e recentemente tenho me aprofundado em Python e inteligência artificial.
+Eu sou **Luciano Tonet**, programador com raízes profundas em PHP, Vue.js e JavaScript, e ramos crescendo em direção a Python e AI. No meio do código eu encontrei o meu lançe - uma mistura de desafio e diversão.
 
-Sou apaixonado por programação, design e música. Estou sempre explorando novidades. Quando não estou programando, você pode me encontrar estudando sobre programação e outras nerdices 😅.
+### 👨‍💻 O que eu faço
+Na vida real, você me encontrará por trás da [Agência Mav](https://agenciamav.com.br) desenvolvendo sites, sistemas e criando ferramentas como o [Dev Assistant App](https://github.com/apps/dev-assistant-app). 
+Embora não busque os holofotes, minha paixão pelo backend, frontend e design falam por si, e em cada projeto há um toque de amor.
 
-## 🚀 Minhas habilidades
+> Eu entrego arte e inovação empacotados como sotfware.
 
-- **Linguagens**: PHP, Vue.js, JavaScript, Python, TypeScript
-- **Ferramentas**: VS Code, ChatGPT, GitHub Copilot, Midjourney, Docker, etc
-- **Idiomas**: Português, Inglês (bem básico)
+### 🤖 Explorando Inteligência Artificial
+Recentemente, tenho aplicado meu artesanato para moldar experiências com as APIs da OpenAI, explorando os confins da programação e da IA.
 
-## 📊 Minhas ~armas~ estatísticas
+### 🛠 Habilidades Técnicas
+- **Avançado**: PHP, Laravel, Vue.js, JavaScript
+- **Intermediário**: Python, TypeScript, Docker
+- **Iniciante**: AI, Machine Learning
 
-Dados reais: de acordo com minhas [estatísticas no Wakatime](https://wakatime.com/@lucianotonet), eu passei mais de 2.305 horas programando desde novembro de 2016. Estas são as linguagens que mais usei:
+### 💡 Projetos
+- [Agencia Mav](https://agenciamav.com.br): Um ecossistema de soluções digitais.
+- [Dev Assistant App](https://github.com/apps/dev-assistant-app): _"Apenas mais um assistente de IA para desenvolvedores"_
 
-```plaintext
-PHP:         ███████████████████████🔥 14.64% (943 horas) 
-Vue.js:      █████████████____________  6.10% (393 horas)
-Blade:       ████████_________________  3.52% (227 horas)
-JavaScript:  ████████_________________  3.08% (198 horas)
-Python:      █████____________________  1.71% (110 horas)
-JSON:        █████____________________  1.06% (68 horas)
-Dart:        █████____________________  1.02% (65 horas)
-HTML:        █████____________________  0.79% (51 horas)
-Bash:        █████____________________  0.68% (44 horas)
-Markdown:    █████____________________  0.57% (36 horas)
-CSS:         █████____________________  0.46% (29 horas)
-TypeScript:  █████____________________  0.27% (17 horas)
+### 📊 Estatísticas de Codificação
+Mais de **2.305 horas** registradas desde 2016, a maior parte em **PHP** e **Vue.js**, sem incluir os 4 anos anteriores.
 
-```
+### 🌐 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/lucianotonet/)
+- [Portfólio](https://luciano.tonet.dev/)
 
-## 📫 Meus contatos
+🔍 Estou sempre aberto a colaborações significativas e projetos desafiadores que impulsionem o crescimento pessoal e profissional, seja o meu ou o seu!
 
-- LinkedIn: [lucianotonet](https://www.linkedin.com/in/lucianotonet/)
-- Website: [luciano.tonet.dev](https://luciano.tonet.dev/)
-- Twitter: [@lucianotonet](https://twitter.com/lucianotonet)
-- E-mail: tonetlds@gmail.com ou tonet.dev@gmail.com
+---
+
+*Esse perfil foi cuidadosamente composto para refletir minhas capacidades reais e interesses pelo ChatGPT. 
+Para interações mais detalhadas, por favor, entre em contato.*
