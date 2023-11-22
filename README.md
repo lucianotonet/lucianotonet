@@ -4,7 +4,7 @@ Eu sou **Luciano Tonet**, programador com raízes profundas em PHP, Vue.js e Jav
 
 ### 👨‍💻 O que eu faço
 Na vida real, você me encontrará por trás da [Agência Mav](https://agenciamav.com.br) desenvolvendo sites, sistemas e criando ferramentas como o [Dev Assistant App](https://github.com/apps/dev-assistant-app). 
-Embora não busque os holofotes, minha paixão pelo backend, frontend e design falam por si, e em cada projeto há um toque de amor.
+Embora não busque os holofotes, minha paixão pelo backend, frontend e design falam por si, pois em cada projeto há um toque de amor.
 
 > Eu entrego arte e inovação empacotados como sotfware.
 
@@ -29,7 +29,3 @@ Mais de **2.305 horas** registradas desde 2016, a maior parte em **PHP** e **Vue
 
 🔍 Estou sempre aberto a colaborações significativas e projetos desafiadores que impulsionem o crescimento pessoal e profissional, seja o meu ou o seu!
 
----
-
-*Esse perfil foi cuidadosamente composto para refletir minhas capacidades reais e interesses pelo ChatGPT. 
-Para interações mais detalhadas, por favor, entre em contato.*
