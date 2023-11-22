@@ -27,5 +27,7 @@ Mais de **2.305 horas** registradas desde 2016, a maior parte em **PHP** e **Vue
 - [LinkedIn](https://www.linkedin.com/in/lucianotonet/)
 - [Portfólio](https://luciano.tonet.dev/)
 
-🔍 Estou sempre aberto a colaborações significativas e projetos desafiadores que impulsionem o crescimento pessoal e profissional, seja o meu ou o seu!
+🔍 Estou sempre aberto a colaborações significativas e projetos desafiadores que impulsionem o crescimento pessoal e profissional, seja o meu ou seja o seu!
+
+
 
