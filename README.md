@@ -21,8 +21,8 @@ Atualmente tenho dedicado uma porção enorme de ~vida~ tempo para criar e molda
   - [GitHub App](https://github.com/apps/dev-assistant-app): Conecta seus repositórios à base de conhecimento do Dev Assistant.
   - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LucianoTonet.dev-assistant-ai): Extensão para VS Code ou Cursor.
 - [EXMA Hub](https://exmahub.com): Hub de serviços e soluções.
-- [Groq-PHP](https://github.com/lucianotonet/groq-php): PHP library to use [Groq API](https://groq.com/).
-- [Groq-Laravel](https://github.com/lucianotonet/groq-laravel): Laravel facade to the Groq-PHP to use [Groq API](https://groq.com/).
+- [Groq-PHP](https://github.com/lucianotonet/groq-php?tab=readme-ov-file#readme): PHP library to use [Groq API](https://groq.com/).
+- [Groq-Laravel](https://github.com/lucianotonet/groq-laravel?tab=readme-ov-file#readme): Laravel facade to the Groq-PHP to use [Groq API](https://groq.com/).
 
 ### 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/lucianotonet/)
