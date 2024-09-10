@@ -4,7 +4,7 @@ Me chamo **Luciano Tonet**, sou programador com raízes profundas em PHP, Vue.js
 
 ### 👨‍💻 O que eu faço?
 ## > Inovação e criatividade compilado em software
-No dia a dia, você me encontrará dedicando ~a vida~ tempo para criar e moldar experiências utilizando IA e e microaplicações interessantes.
+No dia a dia, você me encontrará dedicando ~a vida~ tempo para criar e moldar experiências utilizando IA e microaplicações web bastante interessantes.
 
 ### 🛠 Habilidades Técnicas
 - **Avançado**: PHP, Laravel, Vue.js, JavaScript
