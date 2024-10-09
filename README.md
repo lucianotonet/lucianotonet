@@ -11,8 +11,8 @@ No dia a dia, você me encontrará dedicando ~a vida~ tempo para criar e moldar 
 - **Intermediário**: Python, AI, TypeScript
 
 ### 💡 Projetos
-- [Groq-PHP](https://lucianotonet.vercel.app/groq-php): PHP library to use [Groq Cloud API](https://groq.com/).
-- [Groq-Laravel](https://lucianotonet.vercel.app/groq-laravel): Laravel package to use [Groq Cloud API](https://groq.com/).
+- [Groq-PHP](https://github.com/lucianotonet/groq-php): PHP library to use [Groq Cloud API](https://groq.com/).
+- [Groq-Laravel](https://github.com/lucianotonet/groq-laravel): Laravel package to use [Groq Cloud API](https://groq.com/).
 
 ### 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/lucianotonet/)
